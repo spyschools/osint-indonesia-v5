@@ -4,6 +4,8 @@ Tools OSINT Indonesia, untuk cek NIK & No HP. Script ini tidak akan ambil data d
 
 $ git clone https://github.com/spyschools/osint-indonesia-v5.git
 
+$ chmod +x *
+
 $ cd osint-indonesia-v5
 
 $ python3 osint_v5.py
