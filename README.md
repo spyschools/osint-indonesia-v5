@@ -13,8 +13,9 @@ $ python3 osint_v5.py
 [*] OSINT v3 siap jalan (NIK/HP → hasil + HTML)
 Mode: (1) Single input, (2) Load dari file .txt ? 
 
-*pilih 2
-targets.txt
+*pilih 1 untuk single input
+*pilih 2 ketik : targets.txt
+*pastikan file targets.txt terisi list dan bisa kamu rubah isinya
 
 *UPDATE
 $ python3 osint_builder.py
