@@ -1,6 +1,6 @@
-osint-indonesia-v5
+Tools OSINT Indonesia, untuk cek NIK & No HP. Script ini tidak akan ambil data dari database ilegal, tapi hanya dari sumber OSINT publik.
 
-Tools OSINT Indonesia, untuk cek NIK &amp; No HP. Script ini tidak akan ambil data dari database ilegal, tapi hanya dari sumber OSINT publik.
+*versi : osint-indonesia-v5
 
 $ git clone https://github.com/spyschools/osint-indonesia-v5.git
 
@@ -11,7 +11,7 @@ $ python3 osint_v5.py
 [*] OSINT v3 siap jalan (NIK/HP → hasil + HTML)
 Mode: (1) Single input, (2) Load dari file .txt ? 
 
-pilih 2
+*pilih 2
 targets.txt
 
 *UPDATE
